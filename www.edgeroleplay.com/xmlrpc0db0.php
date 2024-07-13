@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://www.edgerp.com</homePageLink>
+		<homePageLink>https://www.edge.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://www.edgerp.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.edgerp.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.edgerp.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://www.edgerp.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.edgerp.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://www.edge.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.edge.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.edge.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://www.edge.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.edge.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
