@@ -14,25 +14,25 @@ www.edgerp.comwww.edgerp.comwww.edgerp.com
 www.edgerp.comwww.edgerp.com
 www.edgerp.comwww.edgerp.comwww.edgerp.com
 www.edgerp.com
-23:32:53	Error: 	"Not Found" (404) at link httpwww.edgerp.com.com/www.imperorp.comwww.edgerp.comww.imperorp.com/)
+23:32:53	Error: 	"Not Found" (404) at link httpwww.edgerp.com.com/www.edgerp.comwww.edgerp.comww.imperorp.com/)
 www.edgerp.comwww.edgerp.comwww.edgerp.com
-23:32:56	Warning: 	Moved Permanently for https://www.imperorp.com/?p=12308
+23:32:56	Warning: 	Moved Permanently for https://www.edgerp.com/?p=12308
 
-23:32:56	Warning: 	File has moved from https://www.imperorp.com/?p=12308 to https://www.imperorp.com/staff/
+23:32:56	Warning: 	File has moved from https://www.edgerp.com/?p=12308 to https://www.imperorp.com/staff/
 
-23:32:56	Error: 	"Not Found" (404) at link https://www.imperorp.com/staff/www.imperorp.com (from https://www.imperorp.com/staff/)
+23:32:56	Error: 	"Not Found" (404) at link https://www.edgerp.com/staff/www.imperorp.com (from https://www.imperorp.com/staff/)
 
-23:32:56	Warning: 	Moved Permanently for https://www.imperorp.com/?p=12296
+23:32:56	Warning: 	Moved Permanently for https://www.edgerp.com/?p=12296
 
-23:32:56	Warning: 	File has moved from https://www.imperorp.com/?p=12296 to https://www.imperorp.com/streamer/
+23:32:56	Warning: 	File has moved from https://www.edgerp.com/?p=12296 to https://www.imperorp.com/streamer/
 
-23:32:56	Error: 	"Not Found" (404) at link https://www.imperorp.com/streamer/www.imperorp.com (from https://www.imperorp.com/streamer/)
+23:32:56	Error: 	"Not Found" (404) at link https://www.edgerp.com/streamer/www.imperorp.com (from https://www.imperorp.com/streamer/)
 
-23:32:56	Warning: 	Moved Permanently for https://www.imperorp.com/?p=12239
+23:32:56	Warning: 	Moved Permanently for https://www.edgerp.com/?p=12239
 
-23:32:56	Warning: 	File has moved from https://www.imperorp.com/?p=12239 to https://www.imperorp.com/auto/
+23:32:56	Warning: 	File has moved from https://www.edgerp.com/?p=12239 to https://www.imperorp.com/auto/
 
-23:32:56	Error: 	"Not Found" (404) at link https://www.imperorp.com/auto/www.imperorp.com (from https://www.imperorp.com/auto/)
+23:32:56	Error: 	"Not Found" (404) at link https://www.edgerp.com/auto/www.edgerp.com (from https://www.imperorp.com/auto/)
 
 
 
